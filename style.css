@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #bebebe;
+}
+html {
+    background-color: rgb(128, 128, 128)
+}
+.form {
+    height: 300px;
+    width: 400px;
+    background-color: rgb(53, 49, 41);
+    border: 2px blue;
+    margin-left: 700px;
+    margin-top: 350px;
+    border-radius: 5px;
+}
+form {
+    margin-left: 26%;
+    margin-top: 20%;
+}
+input {
+    background: none;
+    border: none;
+    border-bottom: 2px rgb(109, 17, 17) solid;
+}
+button {
+    height: 20px;
+    width: 170px;
+    background-color: rgb(141, 15, 15);
+    transition: 0.5s;
+}
+button:hover {
+    transition: 1s;
+    background-color: #a700a7;
+}
+p {
+    margin-left: 810px;
+    position: relative;
+    bottom: 100px;
+}
